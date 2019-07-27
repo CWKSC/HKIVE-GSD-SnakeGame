@@ -2,7 +2,7 @@
 
 1. [What is this ? 这是什么？](#what-is-this--这是什么)
 2. [Quick View 快速查看](#quick-view-快速查看)
-3. [How to start ? 怎麼開始？ 怎么开始？](#how-to-start--怎麼開始-怎么开始)
+3. [How to start ? 怎么开始？](#how-to-start--怎么开始)
 
 ------
 
@@ -32,9 +32,9 @@ This open source project is mainly for learning and research purposes.
 
 ------
 
-For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SnakeGame/blob/master/RequirementsDocument.md)
 
-对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SnakeGame/blob/master/RequirementsDocument.md)
 
 ------
 
@@ -48,7 +48,7 @@ ___
 
 ------
 
-## How to start ? 怎麼開始？ 怎么开始？
+## How to start ? 怎么开始？
 
 [back to Contents 返回目录](#contents-目录)
 
@@ -62,9 +62,9 @@ download and execute `SnakeGame\Debug\SnakeGame.exe`
 
 ------
 
-### Open the project and view the source code 
+### Open the project and view the source code :
 
-#### 打開專案並查看源代碼 打开专案并查看源代码：
+#### 打开专案并查看源代码：
 
 download and open `SnakeGame\SnakeGame.sln`
 
