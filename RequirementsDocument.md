@@ -10,7 +10,7 @@ This assignment is to implement a game using Object-Oriented Programming and Dat
 
 The game board can be presented in either way below:
 
-![1564218558087](RequirementsDocument_Image\1564218558087.png)
+![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/RequirementsDocument_Image/1564218558087.png)
 
 It is a 10 x 10 game board and “o” is used to represent the snake body and “O” is used to represent the head of snake.  The initial position is shown as above.
 
@@ -42,16 +42,16 @@ Food is randomly placed in any free space on the board (i.e. not occupied by the
 
 As shown in the Game Board section, the snake size is initially three.  It can move around by using WASD, where W is up, A is left, S is down and D is right. The movement controls the head’s next position and the body follow, i.e. the tail position will be updated to the second last position.  The following is an example of moving down: 
 
- ![1564218613861](RequirementsDocument_Image\1564218613861.png)
+ ![1564218613861](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/RequirementsDocument_Image/1564218613861.png)
 
 
 The above example also shows how a food is generated. If the snake keeps going down and eat the food, 
 
-![1564218631355](RequirementsDocument_Image\1564218631355.png)
+![1564218631355](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/RequirementsDocument_Image/1564218631355.png)
 
 The length of the snake will increase:
 
-![1564218675109](RequirementsDocument_Image\1564218675109.png)
+![1564218675109](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/RequirementsDocument_Image/1564218675109.png)
 
 And in this case, the position of tail remains unchanged and the length of the snake is increased by 1.
 
@@ -88,4 +88,4 @@ Like every living thing, the snake ends up being dead.  The following scenarios 
 
 **Sample User Interface**
 
-![1564218694353](RequirementsDocument_Image\1564218694353.png)
+![1564218694353](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/RequirementsDocument_Image/1564218694353.png)
