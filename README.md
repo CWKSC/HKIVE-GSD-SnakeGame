@@ -88,9 +88,9 @@ download and open `SnakeGame\SnakeGame.sln`
 
 ------
 
-The version of Visual Studio is vs2017.
+The version of Visual Studio is vs2017 / vs2019.
 
-Visual Studio 的版本为 vs2017。
+Visual Studio 的版本为 vs2017 / vs2019。
 
 ------
 
