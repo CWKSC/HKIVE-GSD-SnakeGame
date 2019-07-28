@@ -44,7 +44,23 @@ For Requirements Document, you can look at [RequirementsDocument.md](https://git
 
 ___
 
+Start :
 
+![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/Screenshot/start.png)
+
+Midway through the game:
+
+![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/Screenshot/mid.png)
+
+Game Over:
+
+![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/Screenshot/end.png)
+
+___
+
+For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SnakeGame/blob/master/RequirementsDocument.md)
+
+对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SnakeGame/blob/master/RequirementsDocument.md)
 
 ------
 
