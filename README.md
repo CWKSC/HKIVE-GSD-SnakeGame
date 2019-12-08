@@ -16,19 +16,19 @@
 
 HD in **G**ame **S**oftware **D**evelopment (**GSD**)  遊戲軟件開發 高級文憑  游戏软件开发 高级文凭
 
-Snake Game 贪食蛇游戏
+Snake Game 贪食蛇游戏 貪食蛇遊戲
 
 ___
 
 This is just a student's work.
 
-这只是一个学生的作品。
+这只是一个学生的作品。 這只是一個學生的作品。
 
 ------
 
 This open source project is mainly for learning and research purposes.
 
-本开源项目主要为学习探讨研究目的
+本开源项目主要为学习探讨研究目的 本開源項目主要為學習探討研究目的
 
 ------
 
