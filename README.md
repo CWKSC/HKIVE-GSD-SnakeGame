@@ -58,9 +58,9 @@ Game Over:
 
 __
 
-According to the requirements document produced.
+According to the requirements document produced, with different traditions Snake.
 
-根据需求文档而制作的。  根據需求文檔而製作的。
+根据需求文档而制作的，跟传统贪食蛇不同。    根據需求文檔而製作的，跟傳統貪食蛇不同。
 
 ___
 
