@@ -56,6 +56,12 @@ Game Over:
 
 ![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SnakeGame/master/Screenshot/end.png)
 
+__
+
+According to the requirements document produced.
+
+根据需求文档而制作的。  根據需求文檔而製作的。
+
 ___
 
 For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SnakeGame/blob/master/RequirementsDocument.md)
