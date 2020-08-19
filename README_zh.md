@@ -1,9 +1,9 @@
 ## Contents 目錄
 
-| [What is this?](#what-is-this--這是什麼？) | [Quick View](#quick-view-快速查看) | [How to start?](#how-to-start) |
+| [What is this? 這是什麼？](#what-is-this-這是什麼？) | [Quick View 快速查看](#quick-view-快速查看) | [How to start? 如何開始？](#how-to-start) |
 | ------------------------------ | ------------------------- | ------------------------------ |
 
-## What is this ? 這是什麼？
+## What is this? 這是什麼？
 
 **H**ong **K**ong **I**nstitute of **V**ocational **E**ducation (**HKIVE**)  香港專業教育學院 
 
@@ -41,13 +41,13 @@ Game Over:
 
 ___
 
-根據需求文檔而製作的，跟傳統貪食蛇不同。
+根據需求文檔而製作的，跟傳統貪食蛇不同
 
 對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SnakeGame/blob/master/RequirementsDocument.md)
 
 ------
 
-## How to start ? 怎麼開始？
+## How to start? 如何開始？
 
 [back to Contents 返回目錄](#contents-目錄)
 
@@ -61,7 +61,7 @@ ___
 
 #### 打開專案並查看源代碼：
 
-下载并打开 `SnakeGame\SnakeGame.sln`
+下載並打開 `SnakeGame\SnakeGame.sln`
 
 ------
 
