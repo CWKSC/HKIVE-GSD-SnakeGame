@@ -1,6 +1,6 @@
 ## Contents 目錄
 
-| [What is this? 這是什麼？](#what-is-this-這是什麼？) | [Quick View 快速查看](#quick-view-快速查看) | [How to start? 如何開始？](#how-to-start) |
+| [What is this? 這是什麼？](#what-is-this-這是什麼？) | [Quick View 快速查看](#quick-view-快速查看) | [How to start? 如何開始？](#how-to-start-如何開始？) |
 | ------------------------------ | ------------------------- | ------------------------------ |
 
 ## What is this? 這是什麼？
